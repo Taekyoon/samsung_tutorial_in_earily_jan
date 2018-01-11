@@ -3,7 +3,7 @@ This project is for beginners who want to find an easy way to practice deep nlp 
 
 ------------------------------------------------------------------------------------------------------------
 ## Getting Started 
-You need to do following instrunction to build this project environment
+You need to do following instrunctions to build this project environment
 
 ```bash
 $ git clone https://github.com/Taekyoon/samsung_tutorial_in_earily_jan.git
