@@ -6,7 +6,7 @@ This project is for beginners who want to find an easy way to practice deep nlp 
 You need to do following instrunction to build this project environment
 
 ```bash
-$ git clone https://github.com/Taekyoon/
+$ git clone https://github.com/Taekyoon/samsung_tutorial_in_earily_jan.git
 $ pip install -r requirements.txt
 $ jupyter notebook
 ```
